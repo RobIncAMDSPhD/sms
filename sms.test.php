@@ -1,7 +1,7 @@
 <?php
 
 // set your mobile number here!
-$strNumber = "";
+$strNumber = "+16477452046";
 
 require_once("sms.class.php");
 
